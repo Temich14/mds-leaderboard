@@ -1,52 +1,54 @@
-[
-  {
-    "playerName": "Alice",
-    "score": 1500,
-    "date": "2025-10-01"
-  },
-  {
-    "playerName": "Bob",
-    "score": 1320,
-    "date": "2025-10-02"
-  },
-  {
-    "playerName": "Charlie",
-    "score": 1870,
-    "date": "2025-10-03"
-  },
-  {
-    "playerName": "Diana",
-    "score": 920,
-    "date": "2025-10-04"
-  },
-  {
-    "playerName": "Eve",
-    "score": 1650,
-    "date": "2025-10-05"
-  },
-  {
-    "playerName": "Frank",
-    "score": 1100,
-    "date": "2025-10-06"
-  },
-  {
-    "playerName": "Grace",
-    "score": 1780,
-    "date": "2025-10-07"
-  },
-  {
-    "playerName": "Heidi",
-    "score": 1400,
-    "date": "2025-10-08"
-  },
-  {
-    "playerName": "Ivan",
-    "score": 1230,
-    "date": "2025-10-09"
-  },
-  {
-    "playerName": "Judy",
-    "score": 1995,
-    "date": "2025-10-10"
-  }
-]
+{
+  "score": [
+    {
+      "playerName": "Alice",
+      "score": 1500,
+      "date": "2025-10-01"
+    },
+    {
+      "playerName": "Bob",
+      "score": 1320,
+      "date": "2025-10-02"
+    },
+    {
+      "playerName": "Charlie",
+      "score": 1870,
+      "date": "2025-10-03"
+    },
+    {
+      "playerName": "Diana",
+      "score": 920,
+      "date": "2025-10-04"
+    },
+    {
+      "playerName": "Eve",
+      "score": 1650,
+      "date": "2025-10-05"
+    },
+    {
+      "playerName": "Frank",
+      "score": 1100,
+      "date": "2025-10-06"
+    },
+    {
+      "playerName": "Grace",
+      "score": 1780,
+      "date": "2025-10-07"
+    },
+    {
+      "playerName": "Heidi",
+      "score": 1400,
+      "date": "2025-10-08"
+    },
+    {
+      "playerName": "Ivan",
+      "score": 1230,
+      "date": "2025-10-09"
+    },
+    {
+      "playerName": "Judy",
+      "score": 1995,
+      "date": "2025-10-10"
+    }
+  ]
+}
